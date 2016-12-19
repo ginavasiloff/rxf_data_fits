@@ -1,0 +1,8 @@
+*.pyc
+*.tar.gz
+*.png
+M00*
+RXFDataStuff
+*.log
+*~
+.DS_Store
